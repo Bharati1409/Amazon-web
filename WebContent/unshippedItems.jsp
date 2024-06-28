@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ page
-	import="com.shashi.service.impl.*, com.shashi.beans.*,com.shashi.service.*,java.util.*"%>
+	import="com.bharati.service.impl.*,com.bharati.beans.*,com.bharati.service.*,java.util.*"%>
 <!DOCTYPE html >
 <html>
 <head>
